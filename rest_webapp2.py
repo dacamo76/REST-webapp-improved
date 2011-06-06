@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import webapp2 as webapp
 import webapp2_extras.json as json_extras
 
